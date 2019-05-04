@@ -1,4 +1,4 @@
-// var name ='wasif miraz'
+// var name ='jhon doe'
 // var age =23
 // var skill =['java','php','javascript']
 // console.log(name);
