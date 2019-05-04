@@ -92,7 +92,7 @@ constructor()
     this.state = {
         address:
         {
-            name:'miraz',
+            name:'jhon',
             RoadNO:'4',
             houseno:''
 
